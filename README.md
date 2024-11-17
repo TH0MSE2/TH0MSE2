@@ -35,7 +35,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/TH0MSE2"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/TH0MSE2"><img src="https://skillicons.dev/icons?i=vscode,lua,nodejs,nextjs"> </a> </p>
 
 ## My Stats:
 <p align="center">
