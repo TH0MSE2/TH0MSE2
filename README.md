@@ -10,17 +10,17 @@
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
+      <th>Profile Views</th>
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
+      <td>
         <div align="center">
           <a href="https://github.com/TH0MSE2"><img src="https://github.com/TH0MSE2.png" alt="@TH0MSE2" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/TH0MSE2"><b>TH0MSE2</b></a>
         </b>
-      </td> -->
+      </td>
       <!-- Profile Views -->
       <td>
          <a href="https://github.com/TH0MSE2"> <img src="https://komarev.com/ghpvc/?username=TH0MSE2&style=for-the-badge&color=brightgreen"> </a>
